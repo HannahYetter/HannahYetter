@@ -1,6 +1,10 @@
+Project: *The Grand Tour Project*
+Project Director: Giovanna Ceserani
+Project URL: [The Grand Tour Project](https://grandtour.stanford.edu)
+
 ![Cover page of project](https://hannahyetter.github.io/HannahYetter/images/cover_dh_grand_tour_review.png)
 
-Stanford’s [*The Grand Tour Project*](https://grandtour.stanford.edu) is an exploration of the phenomena known as the Grand Tour of Italy. During the eighteenth century, Enlightenment thinkers undertook a voyage or “tour” of Italy to gain knowledge of humanist ideals and classical origins. This project studies the published and unpublished works of these travelers in order to re-create the paths they took and understand their exchange of ideas that influenced the modern world.
+Stanford’s *The Grand Tour Project* is an exploration of the phenomena known as the Grand Tour of Italy. During the eighteenth century, Enlightenment thinkers undertook a voyage or “tour” of Italy to gain knowledge of humanist ideals and classical origins. This project studies the published and unpublished works of these travelers in order to re-create the paths they took and understand their exchange of ideas that influenced the modern world.
 
 The Grand Tour Project draws much of its information from the *Dictionary of British and Irish Travelers to Italy 1701-1800* (the *Dictionary*). The *Dictionary* is comprised of 5213 entries that provide extensive information on those who undertook the Grand Tour. The project’s objective in digitalizing the contents of the *Dictionary* is to reveal who was in what place at what time and the overall travel trends.
 
