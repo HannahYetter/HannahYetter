@@ -4,7 +4,7 @@
 
 **Project URL**: [The Grand Tour Project](https://grandtour.stanford.edu)
 
-![Cover page of project](https://hannahyetter.github.io/HannahYetter/images/cover_dh_grand_tour_review.png)
+![Cover page of project](https://hannahyetter.github.io/HannahYetter/images/cover_dh_grand_tour_review_2.png)
 
 Stanford’s *The Grand Tour Project* is an exploration of the phenomena known as the Grand Tour of Italy. During the eighteenth century, Enlightenment thinkers undertook a voyage or “tour” of Italy to gain knowledge of humanist ideals and classical origins. This project studies the published and unpublished works of these travelers in order to re-create the paths they took and understand their exchange of ideas that influenced the modern world.
 
@@ -18,7 +18,7 @@ The “Timechart of Travels” is one such interactive tool that meets the proje
 
 Another interactive element of this project I found interesting was that titled “Map of travels with timespan filter”. This interactive map shows the cities most frequented on tours, with the bigger dots being cities more frequently visited. Seeing the size of the dots in comparison to others reveal which cities had the greatest impact on scholars at the time which allows modern scholars to view the overall travel trends. I am not sure if there is an issue with my computer, but I cannot see an outline of Italy when I view the map. I only see a blob of different sized dots that form something that resembles the shape of Italy. If the outline of Italy were incorporated, this map would be easier to read, and its impact would be much greater.
 
-![Map of Italy with no borders](https://hannahyetter.github.io/HannahYetter/images/bubble_italy_map_no_borders.png)
+![Map of Italy with no borders](https://hannahyetter.github.io/HannahYetter/images/bubble_italy_map_no_borders_2.png)
 
 Overall, I think this project was very well informed and put together. The site was easy to navigate with links that worked and detailed instructions on how to use the interactive elements. Although there were a few minor errors, I think the project achieves its goal and puts together a detailed account of the “who,” “where,” and overall travel trends of the Grand Tour of Italy. 
 
