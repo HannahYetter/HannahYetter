@@ -2,7 +2,7 @@
 
 **Project Director**: Giovanna Ceserani
 
-**Project URL**: [The Grand Tour Project](https://grandtour.stanford.edu)
+**Project URL**: [https://grandtour.stanford.edu](https://grandtour.stanford.edu)
 
 ![Cover page of project](https://hannahyetter.github.io/HannahYetter/images/cover_dh_grand_tour_review_3.png)
 
