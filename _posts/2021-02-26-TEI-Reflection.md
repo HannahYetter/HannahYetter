@@ -10,11 +10,11 @@ My family members, however, are technology gods in comparison. My mom writes cod
 
 I am only an hour drive from home, so last weekend I went home with the intention of writing my code and having my mom look over it once I was done. When I first opened Oxygen, I was overwhelmed, but I went through and watched the recording my professor posted online (which was super helpful) and in no time I found myself getting the hang of things.
 
-I did ask my mom the occasional question when I wasn’t sure why my code was invalid, and sometimes her answers contained so much technological lingo that I was still left confused. I remember she told me to “cut” something, and I immediately highlighted it and hit the delete key. She started laughing because apparently “cut” and “delete” are two different things.
+I did ask my mom the occasional question when I wasn’t sure why my code was invalid, and sometimes her answers contained so much technological lingo that I was still left confused. I remember she told me to “cut” something, and I immediately highlighted it and hit the delete key. She started laughing because apparently “cut” and “delete” are two different things. 
 
 ![Screenshot of code](https://hannahyetter.github.io/HannahYetter/images/code_screenshot_5.png)
 
-Despite the few questions I had here and there and my lack of technological expertise, I found Oxygen surprisingly easy to navigate. I had a few questions in the beginning, but towards the end I could usually tell why my code was invalid, and what I did wrong. By the time I had finished my code, I was very proud of myself, and I was able to finally understand why my mom enjoys coding so much.
+Despite the few questions I had here and there and my lack of technological expertise, I found Oxygen surprisingly easy to navigate. I had a few questions when I fist started coding, but towards the end I could usually tell why my code was invalid and what I did wrong. By the time I had finished my code, I was very proud of myself, and I was able to finally understand why my mom enjoys coding so much.
 
-Overall, I found myself surprised with how much I enjoyed this project. I thought my lack of technological expertise would make this more difficult, but it was not nearly as difficult as I anticipiated, and I had minimal questions about the actual coding process. My experience with Oxygen has taught me to be less afraid of the coding/technology world, and to have more confidence when it comes to my own technological abilities.
+Overall, I found myself surprised with how much I enjoyed this project. I thought my lack of technological expertise would make this more difficult, but it was not nearly as bad as I anticipiated. My experience with Oxygen has taught me to be less afraid of the coding/technology world, and to have more confidence when it comes to my own technological abilities.
 
