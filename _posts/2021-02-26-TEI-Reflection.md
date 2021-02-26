@@ -14,7 +14,7 @@ I did ask my mom the occasional question when I wasn’t sure why my code was in
 
 ![Screenshot of code](https://hannahyetter.github.io/HannahYetter/images/code_screenshot_5.png)
 
-Despite the few questions I had here and there and my lack of technological expertise, I found Oxygen surprisingly easy to navigate. I am very detailed oriented, as is my mom, and I quickly realized that this attribute is essential in writing valid code. By the time I had finished my code, I was very proud of myself, and I was able to finally understand why my mom enjoys coding so much.
+Despite the few questions I had here and there and my lack of technological expertise, I found Oxygen surprisingly easy to navigate. I had a few questions in the beginning, but towards the end I could usually tell why my code was invalid, and what I did wrong. By the time I had finished my code, I was very proud of myself, and I was able to finally understand why my mom enjoys coding so much.
 
-Overall, I found myself surprised with how much I enjoyed this project. My experience with Oxygen has taught me to be less afraid of the coding/technology world, and to have more confidence when it comes to my own technological abilities.
+Overall, I found myself surprised with how much I enjoyed this project. I thought my lack of technological expertise would make this more difficult, but it was not nearly as difficult as I anticipiated, and I had minimal questions about the actual coding process. My experience with Oxygen has taught me to be less afraid of the coding/technology world, and to have more confidence when it comes to my own technological abilities.
 
