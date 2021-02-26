@@ -12,7 +12,7 @@ I am only an hour drive from home, so last weekend I went home with the intentio
 
 I did ask my mom the occasional question when I wasn’t sure why my code was invalid, and sometimes her answers contained so much technological lingo that I was still left confused. I remember she told me to “cut” something, and I immediately highlighted it and hit the delete key. She started laughing because apparently “cut” and “delete” are two different things.
 
-![Screenshot of Code](https://hannahyetter.github.io/HannahYetter/images/screenshot_yellow_wallpaper_code.png)
+![Screenshot of Code](https://hannahyetter.github.io/HannahYetter/images/code_screenshot_2.png)
 
 Despite the few questions I had here and there and my lack of technological expertise, I found Oxygen surprisingly easy to navigate. I am very detailed oriented, as is my mom, and I quickly realized that this attribute is essential in writing valid code. By the time I had finished my code, I was very proud of myself, and I was able to finally understand why my mom enjoys coding so much.
 
