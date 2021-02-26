@@ -1,6 +1,6 @@
 I was assigned pages 32-35 of Charlotte Perkins Stenson’s “The Yellow Wall-paper” to code using Text Encoding Initiative (TEI). “The Yellow Wall-paper” is a work that draws on some of Stenson’s own personal experiences with “medical” treatments of mental problems in the late 1800s. I was tasked with using Oxygen XML (eXtensible Markup Language) to markup and code the pages I was assigned.
 
-![Picture of Google Doc](https://hannahyetter.github.io/HannahYetter/images/oogle_doc_markup_2.jpeg)
+![Picture of Google Doc](https://hannahyetter.github.io/HannahYetter/images/google_doc_markup_3.jpeg)
 
 Before jumping straight into Oxygen, I was provided a Google Document with my portion of the story. There I was able to take note of certain important features such as quotations to essentially pre-markup markup my text. This was made easy by the use the Google Document comments feature. I spent more time on this part than I anticipated I would because I was paranoid that I would miss something crucial that would be integral to my code. As a result, I made a lot of comments on my section. Looking back, I think that I could have gone about this part differently. For example, I highlighted the beginning and end quotation marks instead of simply highlighting the whole quotation. Despite making more work for myself, the comments I made in the Google Document were still sufficient in preparing me for Oxygen.
 
@@ -12,7 +12,7 @@ I am only an hour drive from home, so last weekend I went home with the intentio
 
 I did ask my mom the occasional question when I wasn’t sure why my code was invalid, and sometimes her answers contained so much technological lingo that I was still left confused. I remember she told me to “cut” something, and I immediately highlighted it and hit the delete key. She started laughing because apparently “cut” and “delete” are two different things.
 
-![Screenshot of Code](https://hannahyetter.github.io/HannahYetter/images/code_screenshot_3.png)
+![Screenshot of Code](https://hannahyetter.github.io/HannahYetter/images/code_screenshot_4.png)
 
 Despite the few questions I had here and there and my lack of technological expertise, I found Oxygen surprisingly easy to navigate. I am very detailed oriented, as is my mom, and I quickly realized that this attribute is essential in writing valid code. By the time I had finished my code, I was very proud of myself, and I was able to finally understand why my mom enjoys coding so much.
 
