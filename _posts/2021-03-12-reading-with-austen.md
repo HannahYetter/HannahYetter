@@ -1,5 +1,7 @@
 **Project Name**: *Reading with Austen*
+
 **Project Director**: Nathan Richards Velinou
+
 **Project URL**: [https://www.readingwithausten.com/index.html](https://www.readingwithausten.com/index.html)
 
 ![Cover page of project](https://hannahyetter.github.io/HannahYetter/images/cover-page-reading-austen.png)
