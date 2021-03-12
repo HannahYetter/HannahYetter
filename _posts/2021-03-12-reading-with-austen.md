@@ -12,9 +12,11 @@
 
 The library is incomplete as of now, but the project developers are actively trying to find all the books to provide an accurate representation of the original library.
 
+
 **Technology**
 
 While I couldn’t find anywhere where the project developers talked about the specific technology behind the website, they did talk about how they created their digital catalogue. They explain that this catalogue was derived from a spreadsheet which included transcriptions of the catalogue speculation about matching volumes and other notes. Once they established which catalogue entries matched each work, they transcribed the page’s metadata (collecting information on the title, author, and publication date of each work). They are actively preparing this data for public use (including matching metadata standards and preparing documentation). 
+
 
 **“About” Page**
 
@@ -30,9 +32,11 @@ Depending on how zoomed in I was, this information was difficult to read, and th
 
 I liked the interactivity of the digital library tool, and it was interesting to see the shelves as Austen saw them. I also enjoyed how, whenever possible, the project developers made the cover of the spine on the digital shelves the actual cover of the spine of the original book. I think this element makes the experience more real since you get to see the exact book spine on its exact place in the shelf the same way Austen did.
 
+
 **“Catalogue” Page**
 
 After browsing the digital library, I looked through the “Catalogue” page, where each metadata for each work currently in the library can be found. The “Catalogue” page makes it possible to search for specific books on the shelf and provides more information than simply hovering over them. A brief paragraph above this tool explains that word order matters when searching for certain things. Without this explanation, I would have found this tool difficult to navigate. I enjoyed how this tool provided links to free websites where anyone can read the work online. This allows for more study into both the works themselves, and their influence on Austen’s own works.
+
 
 **Concluding Thoughts**
 
