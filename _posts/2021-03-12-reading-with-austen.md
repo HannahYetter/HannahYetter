@@ -4,7 +4,7 @@
 
 **Project URL**: [https://www.readingwithausten.com/index.html](https://www.readingwithausten.com/index.html)
 
-![Cover page of project](https://hannahyetter.github.io/HannahYetter/images/cover-page-reading-austen.png)
+![Cover page of project](https://hannahyetter.github.io/HannahYetter/images/cover-page-reading-austen-2.png)
 
 **Introduction to the project**
 *Reading with Austen* is a DH project that electronically recreates the library of Godmersham Park. Godmersham Park was the estate of Jane Austen’s brother Edward Austen Knight that he inherited upon the passing of his adoptive father. Each book in this digital library sits where it had when Jane Austen would visit to show exactly what Austen saw and read when studying in the library. This is important because it allows viewers to interact with works that influenced Austen the same way Austen did in the past.
@@ -17,7 +17,7 @@ While I couldn’t find anywhere where the project developers talked about the s
 **“About” Page**
 Before I played with the interactive bookshelf, I went to the “About” page to learn more about the project, which provides lots of information on the background of the Godmersham Park estate and its owners. While I appreciated all the background information, I did not appreciate how long it was. Despite being sectioned into parts, it was a lengthy read. It contained a lot of information on the background of the library and its owners, but not a lot of information on the project itself (such as the technology behind it), which is something I would have liked to see more of.
 
-![Picture of Library](https://hannahyetter.github.io/HannahYetter/images/pic-library-info-small.png)
+![Picture of Library](https://hannahyetter.github.io/HannahYetter/images/pic-library-info-small-2.png)
 
 **Browsing the Library**
 After learning about the original library on the “About” page I went to the “Library” page to browse the books for myself. There are no instructions on how to navigate the library interactive feature, but it is relatively easy to figure out. The “East,” “South,” and “West” buttons take you to that enlarged section of the library where you can then click on “Left,” “Right,” or “Centre” for a closer look. No matter how you view the library, you can hover over books and get information such as their title, author, publication date, and more.
