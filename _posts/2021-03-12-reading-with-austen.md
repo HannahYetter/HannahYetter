@@ -22,13 +22,14 @@ While I couldn’t find anywhere where the project developers talked about the s
 
 Before I played with the interactive bookshelf, I went to the “About” page to learn more about the project. The "About" page provides lots of information on both the background of the Godmersham Park estate and its owners. While I appreciated all the background information, I did not appreciate how long it was. Despite being sectioned into parts, it was a lengthy read. It contained a lot of information on the background of the library and its owners, but not a lot of information on the project itself (such as the technology behind it), which is something I would have liked to see more of.
 
-![Picture of Library](https://hannahyetter.github.io/HannahYetter/images/pic-library-info-small-2.png)
 
 **Browsing the Library**
 
 After learning about the original library on the “About” page, I went to the “Library” page to browse the books for myself. There are no instructions on how to navigate the library interactive feature, but it is relatively easy to figure out. The “East,” “South,” and “West” buttons take you to that enlarged section of the library where you can then click on “Left,” “Right,” or “Centre” for a closer look. No matter how you view the library, you can hover over books and get information such as their title, author, publication date, and more.
 
-Depending on how zoomed in I was, this information was difficult to read, and the individual book placements on the shelves were especially hard to see. These issues were resolved the more you zoom into a certain section but looking at the library as a whole makes it difficult to see specifics.
+![Picture of Library](https://hannahyetter.github.io/HannahYetter/images/pic-library-info-small-2.png)
+
+Depending on how zoomed in I was, this information was difficult to read, and the individual book placements on the shelves were especially hard to see. These issues were resolved the more you zoom into a certain section but looking at the library as a whole makes it difficult to see specifics. 
 
 I liked the interactivity of the digital library tool, and it was interesting to see the shelves as Austen saw them. I also enjoyed how, whenever possible, the project developers made the cover of the spine on the digital shelves the actual cover of the spine of the original book. I think this element makes the experience more real since you get to see the exact book spine on its exact place in the shelf the same way Austen did.
 
