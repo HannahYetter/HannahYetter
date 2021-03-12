@@ -29,7 +29,7 @@ After learning about the original library on the “About” page, I went to the
 
 ![Picture of Library](https://hannahyetter.github.io/HannahYetter/images/pic-library-info-small-3.png)
 
-Depending on how zoomed in I was, this information was difficult to read, and the individual book placements on the shelves were especially hard to see. These issues were resolved the more you zoom into a certain section but looking at the library as a whole makes it difficult to see specifics. 
+Depending on how zoomed in I was, this information was difficult to read, and the individual book placements on the shelves were especially hard to see. I would not have been able to see which book I was hovering over at the farthest zoom if not for the small green outline surrounding the spine. These issues were resolved the more you zoom into a certain section but looking at the library as a whole makes it difficult to see specifics. 
 
 I liked the interactivity of the digital library tool, and it was interesting to see the shelves as Austen saw them. I also enjoyed how, whenever possible, the project developers made the cover of the spine on the digital shelves the actual cover of the spine of the original book. I think this element makes the experience more real since you get to see the exact book spine on its exact place in the shelf the same way Austen did.
 
