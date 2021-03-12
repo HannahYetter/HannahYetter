@@ -4,7 +4,7 @@
 
 **Project URL**: [https://www.readingwithausten.com/index.html](https://www.readingwithausten.com/index.html)
 
-![Cover page of project](https://hannahyetter.github.io/HannahYetter/images/cover-page-reading-austen-2.png)
+![Cover page of project](https://hannahyetter.github.io/HannahYetter/images/cover-page-reading-austen-3.png)
 
 **Introduction to the project**
 
@@ -27,7 +27,7 @@ Before I played with the interactive bookshelf, I went to the “About” page t
 
 After learning about the original library on the “About” page, I went to the “Library” page to browse the books for myself. There are no instructions on how to navigate the library interactive feature, but it is relatively easy to figure out. The “East,” “South,” and “West” buttons take you to that enlarged section of the library where you can then click on “Left,” “Right,” or “Centre” for a closer look. No matter how you view the library, you can hover over books and get information such as their title, author, publication date, and more.
 
-![Picture of Library](https://hannahyetter.github.io/HannahYetter/images/pic-library-info-small-2.png)
+![Picture of Library](https://hannahyetter.github.io/HannahYetter/images/pic-library-info-small-3.png)
 
 Depending on how zoomed in I was, this information was difficult to read, and the individual book placements on the shelves were especially hard to see. These issues were resolved the more you zoom into a certain section but looking at the library as a whole makes it difficult to see specifics. 
 
