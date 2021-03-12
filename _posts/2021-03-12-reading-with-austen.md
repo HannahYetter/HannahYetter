@@ -20,7 +20,7 @@ While I couldn’t find anywhere where the project developers talked about the s
 
 **“About” Page**
 
-Before I played with the interactive bookshelf, I went to the “About” page to learn more about the project, which provides lots of information on the background of the Godmersham Park estate and its owners. While I appreciated all the background information, I did not appreciate how long it was. Despite being sectioned into parts, it was a lengthy read. It contained a lot of information on the background of the library and its owners, but not a lot of information on the project itself (such as the technology behind it), which is something I would have liked to see more of.
+Before I played with the interactive bookshelf, I went to the “About” page to learn more about the project. The "About" page provides lots of information on both the background of the Godmersham Park estate and its owners. While I appreciated all the background information, I did not appreciate how long it was. Despite being sectioned into parts, it was a lengthy read. It contained a lot of information on the background of the library and its owners, but not a lot of information on the project itself (such as the technology behind it), which is something I would have liked to see more of.
 
 ![Picture of Library](https://hannahyetter.github.io/HannahYetter/images/pic-library-info-small-2.png)
 
