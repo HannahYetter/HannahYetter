@@ -1,4 +1,4 @@
-**Project Name**: *Reading with Austen*
+**Project Name**: *Reading With Austen*
 
 **Project Director**: Nathan Richards Velinou
 
@@ -8,7 +8,7 @@
 
 **Introduction to the project**
 
-*Reading with Austen* is a DH project that electronically recreates the library of Godmersham Park. Godmersham Park was the estate of Jane Austen’s brother Edward Austen Knight that he inherited upon the passing of his adoptive father. Each book in this digital library sits where it had when Jane Austen would visit to show exactly what Austen saw and read when studying in the library. This is important because it allows viewers to interact with works that influenced Austen the same way Austen did in the past.
+*Reading With Austen* is a DH project that electronically recreates the library of Godmersham Park. Godmersham Park was the estate of Jane Austen’s brother Edward Austen Knight that he inherited upon the passing of his adoptive father. Each book in this digital library sits where it had when Jane Austen would visit to show exactly what Austen saw and read when studying in the library. This is important because it allows viewers to interact with works that influenced Austen the same way Austen did in the past.
 
 The library is incomplete as of now, but the project developers are actively trying to find all the books to provide an accurate representation of the original library.
 
