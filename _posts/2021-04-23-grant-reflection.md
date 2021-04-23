@@ -6,7 +6,7 @@ My first thought for the grant project was to focus on the French Revolution sin
 
 Originally, it was difficult to find information for the Environmental Scan of my grant because I was specifically looking for research on the Catholic Church and its role in the French Revolution. At this point in the project, I was frustrated since my research was going poorly, and I was worried that I choose the wrong subject. I eventually broadened my research to encompass the entirety of the French Revolution and its historical moments. In doing this, I was able to find more sources that allowed me to elaborate on the cultural importance of the Revolution, and I instantly became less frustrated.
 
-![Tweet](https://hannahyetter.github.io/HannahYetter/images/tweet-grant-reflection-3.jpeg)
+![Tweet](https://hannahyetter.github.io/HannahYetter/images/tweet-grant-reflection-4.jpeg)
 
 This project has not been easy for me, especially in the earlier stages. I struggled with differentiating what information goes in the Environmental Scan and what goes in the Grant Narrative. Every time I thought I understood what information went where, I would go to edit my documents and get confused all over again. What really helped me to finally understand where to put what information was a tweet posted by one of my classmates that explained that the Environmental Scan focuses on the “why” of a project and the Grant Narrative focuses on the “how” and “what”. This explanation simplified the complicated process of grant writing for me, and when I confuse myself, I often find myself looking back at that tweet for clarification.
 
